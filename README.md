@@ -1,11 +1,33 @@
 # Finite State Machines
 
-## Assignment Questions
+## Sample Questions
 
 ### Note: The given testbenches are indicative only.
 
-Q1. Design a finite state machine to detect overlapping sequence 1010 in the given input.
+### Design the following Finite State Machines
 
-Q2. Design a traffic light controller for an intersection of two roads (NS and EW). The controller must controll the LEDs of the two traffic lights. Implement a minimal design with only 6 states.
+#### Q1. Chess Clock
 
-Q3. Implement a digital lock system. The block diagram and the state diagram for the same are provided.
+Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/chess_clock.v
+
+Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/chess_clock_tb.v
+
+#### Q1. Mealy Machine
+
+Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/mealy.v
+
+Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/mealy_tb.v
+
+#### Q1. Moore Machine
+
+Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/moore.v
+
+Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/moore_tb.v
+
+#### Q1. Vending Machine
+
+Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/vending_machine.v
+
+Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/vending_machine_tb.v
+
+
