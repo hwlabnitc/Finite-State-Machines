@@ -12,19 +12,19 @@ Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Cod
 
 Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/chess_clock_tb.v
 
-#### Q1. Mealy Machine
+#### Q2. Mealy Machine
 
 Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/mealy.v
 
 Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/mealy_tb.v
 
-#### Q1. Moore Machine
+#### Q3. Moore Machine
 
 Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/moore.v
 
 Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/moore_tb.v
 
-#### Q1. Vending Machine
+#### Q4. Vending Machine
 
 Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/vending_machine.v
 
