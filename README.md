@@ -4,7 +4,7 @@
 
 ### Note: The given testbenches are indicative only.
 
-### Design the following Finite State Machines
+### Design the following Finite State Machines:
 
 #### Q1. Chess Clock
 
