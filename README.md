@@ -6,28 +6,30 @@
 
 ### Design the following Finite State Machines:
 
-#### Q1. Chess Clock
+### Q1. [Chess Clock](/Sample%20Codes/Chess%20Clock/)
 
-Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/chess_clock.v
 
-Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/chess_clock_tb.v
+### Q2. [Mealy Machine](/Sample%20Codes/Mealy%20Machine/)
 
-#### Q2. Mealy Machine
+### Q3. [Moore Machine](/Sample%20Codes/Moore%20Machine/)
 
-Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/mealy.v
+### Q4. [Vending Machine](/Sample%20Codes/Vending%20Machine/)
 
-Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/mealy_tb.v
+### Q5. [Simple Cycle Detector](/Sample%20Codes/Cycle%20Detector/)
 
-#### Q3. Moore Machine
+### Q6. [Protocol Decoder with Error Check](/Sample%20Codes/Protocol%20Decoder%20with%20Error%20Check/)
 
-Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/moore.v
+### Q7. [Elevator Controller](/Sample%20Codes/ElevatorController/)
 
-Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/moore_tb.v
+### Q8. [Key Debouncer](/Sample%20Codes/KeyDebouncer/)
 
-#### Q4. Vending Machine
+### Q9. [Mealy Cycle Detector](/Sample%20Codes/Mealy%20Cycle%20Detector/)
 
-Code: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/vending_machine.v
+### Q10. [Muller C-Element Detector](/Sample%20Codes/Muller%20C%20-%20Element%20Detector/)
 
-Testbench: https://github.com/hwlab-csed/Finite-State-Machines/blob/main/Sample%20Codes/vending_machine_tb.v
+### Q11. [Dual Clock Traffic Light Controller](/Sample%20Codes/Dual%20Clock%20Traffic%20Light/)
+
+
+
 
 
