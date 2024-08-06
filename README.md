@@ -13,6 +13,8 @@
 
 ### Q3. [Moore Machine](/Sample%20Codes/Moore%20Machine/)
 
+### Q4. [Vending Machine](/Sample%20Codes/Vending%20Machine/)
+
 
 
 
